@@ -11,4 +11,6 @@ int main (){ //program utama
     age = 10;
     age = 17;
 
+    cout << "HALO GES" << endl;
+
 } //selesai
