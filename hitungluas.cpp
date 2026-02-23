@@ -1,2 +1,6 @@
 #include <iostream> //library
 using namespace std;
+
+int main(){ //mulai langkah
+
+}
